@@ -1,0 +1,26 @@
+div {
+    border: dotted red 3px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+   
+
+}
+
+section {
+
+    border: dotted red 3px;
+    display: flex;
+   height: 300px;
+   
+}
+
+.div1{
+
+
+}
+header{
+    background-color: black;
+    margin: 0;
+
+}
